@@ -12,7 +12,7 @@
 
 <h1 id='Description'>Description</h1>
 
-#### This is a insult spammer for all messangers and auto clicker 
+#### This is a insult spammer for all messengers and auto clicker 
 
 #### Currently, this program is the initial version and it is going to be more __optimized__ and __professional__ and __supports Persian language__
 
